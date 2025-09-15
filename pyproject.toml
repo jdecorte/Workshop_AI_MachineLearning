@@ -9,6 +9,7 @@ dependencies = [
     "bs4>=0.0.2",
     "dotenv>=0.9.9",
     "gensim>=4.3.2",
+    "graphviz>=0.21",
     "groq>=0.31.0",
     "iprogress>=0.4",
     "ipykernel>=6.30.1",
